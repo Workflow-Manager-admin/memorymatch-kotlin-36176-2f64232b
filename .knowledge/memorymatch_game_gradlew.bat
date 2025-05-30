@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 6, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "a6d90f4c6a66b49332f8b83c3e945d8c", "format-version": 4, "code-base-name": "default", "filename": "memorymatch_game/gradlew.bat", "knowledge_revision": 6}

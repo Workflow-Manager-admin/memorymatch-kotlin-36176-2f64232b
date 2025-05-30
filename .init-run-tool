@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/memorymatch-kotlin-36176-2f64232b/memorymatch_game"
+}

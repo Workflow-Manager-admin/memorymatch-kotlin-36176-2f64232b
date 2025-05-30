@@ -1,7 +1,10 @@
 <resources>
-    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-        <item name="colorPrimary">#6200EE</item>
-        <item name="colorPrimaryDark">#3700B3</item>
-        <item name="colorAccent">#03DAC5</item>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#093662</item>
+        <item name="colorPrimaryDark">#093662</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#dd0e0e</item>
+        <item name="colorAccent">#c09926</item>
+        <item name="android:windowBackground">#FFFFFF</item>
     </style>
 </resources>
